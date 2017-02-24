@@ -1,0 +1,5 @@
+package: replicserver
+import:
+- package: github.com/cospoland/RextSDK
+- package: github.com/valyala/fasthttp
+  version: ^20160617.0.0
